@@ -2,3 +2,5 @@
 1. linear and logistic regression:
   Created using Colab (Linear Regression on california_housing and Logistic Regression on Breast_cancer.
   Also applied Ridge and Lasso Regression on california_housing
+2. Decision_tree_classifier:
+   Created on colab (Dataset: iris)
