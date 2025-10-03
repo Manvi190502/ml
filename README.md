@@ -3,4 +3,6 @@
   Created using Colab (Linear Regression on california_housing and Logistic Regression on Breast_cancer.
   Also applied Ridge and Lasso Regression on california_housing
 2. Decision_tree_classifier:
-   Created on colab (Dataset: iris)
+   Dataset used: iris
+3. Random_Forest_classifier:
+   Dataset used: digits and iris
