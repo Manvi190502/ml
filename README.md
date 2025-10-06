@@ -13,3 +13,5 @@
 6. Hierarichal_clustering:
    Dataset used: iris
    Clustering: Agglomerative
+7. DBSCAN:
+   Dataset created from sklearn.datasets -> make_moons
