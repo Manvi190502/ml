@@ -15,3 +15,5 @@
    Clustering: Agglomerative
 7. DBSCAN:
    Dataset created from sklearn.datasets -> make_moons
+8. Solar_rock_vs_mine_prediction:
+   Algorithm used: logistic regression
